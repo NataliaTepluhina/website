@@ -21,8 +21,8 @@ export default {
   },
   es: {
     title: {
-      msg: 'Bienvenidx a Vue Vixens!',
-      tagline: 'Vue Vixens es gente "foxy" que se identifica como mujer y que quiere aprender Vue.js' +
+      msg: 'Bienvenid@ a Vue Vixens!',
+      tagline: 'Vue Vixens: Gente "foxy" que se identifica como mujer y que quiere aprender Vue.js' +
       ' para hacer websites y mobile apps',
     },
     eventsTitle: 'Próximos Eventos',
@@ -32,7 +32,7 @@ export default {
     },
     program: {
       title: 'El Programa',
-      content: 'Estudiantes y Mentorxs, más informacion sobre nuestro programa.'
+      content: 'Estudiantes y Mentor@s, más información sobre nuestro programa.'
     },
     request: {
       title: 'Solicitudes',
